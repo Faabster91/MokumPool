@@ -1,0 +1,29 @@
+{
+    "info": {
+        "https://github.com/Faabster91/MokumPool/blob/main/Logo%20Mokum%20Stake%20Pool.png",
+        "https://github.com/Faabster91/MokumPool/blob/main/Logo%20Mokum%20Stake%20Pool.png",
+        "",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        }
+    }
+}
