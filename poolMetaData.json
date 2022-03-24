@@ -1,6 +1,7 @@
 {
 "name": "Mokum Stake Pool",
-"description": "Mission-driven stake pool run on renewable energy from the beautiful city of Amsterdam! Donating 100% of the pool's profit to Save the Children!",
+"description": "Mission-driven stake pool run on renewable energy from the beautiful city of Amsterdam! Donating the pool's profit to Save the Children!",
 "ticker": "MOKUM",
-"homepage": "http://mokumstakepool.com"
+"homepage": "http://mokumstakepool.com",
+"extended": "https://github.com/Faabster91/MokumPool/blob/main/extended.json"
 }
